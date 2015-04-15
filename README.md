@@ -1,6 +1,6 @@
 # NOTE
 
-**This is a personal fork of the SAFETAG project.  It is for my personal exploration and NOT the [official SAFETAG repository=(https://github.com/OpenInternet/SAFETAG). Please see the [official SAFETAG repository](https://github.com/OpenInternet/SAFETAG) for the official SAFETAG project content.**
+**This is a personal fork of the SAFETAG project.  It is for my personal exploration and NOT the [official SAFETAG repository](https://github.com/OpenInternet/SAFETAG). Please see the [official SAFETAG repository](https://github.com/OpenInternet/SAFETAG) for the official SAFETAG project content.**
 
 # SAFETAG
 
